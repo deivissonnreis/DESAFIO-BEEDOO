@@ -47,7 +47,7 @@ Caso de teste: Cadastrar cursos
 
 
 <h3>🔗Links:</h3>
- <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de testes</a>
+ <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de testes</a><br>
  <a href='https://drive.google.com/drive/folders/1ofXXDbML0Iu_QD--RLxwsvBsg4qX3ZjJ?usp=drive_link'>Evidências</a>
 
 
