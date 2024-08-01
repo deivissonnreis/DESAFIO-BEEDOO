@@ -31,7 +31,12 @@ Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiv
 
 <h4>Cadastro de cursos incompleto:</h4>
 
-![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%202-1.png)
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%202-2.png)
+
+
 
 O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar preenchido de maneira correta.
 
