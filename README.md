@@ -9,7 +9,7 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 • Cypress<br>
 • Gherkin<br>
 
-<h3>🪲 Bugs:</h3>
+<h2>🪲 Bugs:</h2>
 
 <h4>Tela inicial:</h4>
 
@@ -40,7 +40,7 @@ Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiv
 
 O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar preenchido de maneira correta.
 
-<h3>📜 Planos de testes:</h3>
+<h2>📜 Planos de testes:</h2>
 
 Caso de teste: Tela inicial
 
@@ -50,25 +50,25 @@ Caso de teste: Cadastrar cursos
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%201.png)
 
-<h3>🤖 Automatização:</h3>
+<h2>🤖 Automatização:</h2>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Cypress%20-%20Bônus/Beedoo%20Cypress/Cypress-1.png)
 Código feito com javascript e o framework Cypress.
 
 
-<h3>🔗Links:</h3>
+<h2>🔗Links:</h2>
  <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de testes</a><br>
  <a href='https://drive.google.com/drive/folders/1ofXXDbML0Iu_QD--RLxwsvBsg4qX3ZjJ?usp=drive_link'>Evidências</a>
 
  OBS: todos os casos de teste e evidências também podem ser encontrados na pasta do repositório.
 
- <h3>💬 Considerações:</h3>
+ <h2>💬 Considerações:</h2>
  Experiência enriquecedora de conhecimento trabalhar nesse desafio proposto pela Beedoo.<br>
  Meus agradecimentos,<br>
  <br>
  Deivisson Reis.
 
- <h3>🪲 Exemplos de bugs não registrado: </h3>
+ <h2>🪲 Exemplos de bugs não registrado: </h2>
  - Preencher fomulário de cadastro sem nome do curso <br>
  - Preencher fomulário de cadastro sem descrição do curso <br>
  - Preencher fomulário de cadastro sem instrutor do curso <br>
