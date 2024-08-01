@@ -45,7 +45,7 @@ Caso de teste: Cadastrar cursos
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%201.png)
 
-OBS: Para ver os casos te teste completo, clique <a href=''https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297>aqui</a>
+OBS: Para ver os casos te teste completo, clique <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>aqui</a>
 
 
 
