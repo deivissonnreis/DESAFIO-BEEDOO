@@ -57,7 +57,7 @@ Código feito com javascript e o framework Cypress.
 
  OBS: todos os casos de teste e evidências também podem ser encontrados na pasta do repositório.
 
- <h3>💬 Considerações</h3>
+ <h3>💬 Considerações:</h3>
  Experiência enriquecedora de conhecimento trabalhar nesse desafio proposto pela Beedoo.
  Meus agradecimentos,
 
