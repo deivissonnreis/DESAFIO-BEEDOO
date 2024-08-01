@@ -15,7 +15,7 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%202.png)
 
-Página inicial do sistema onde apresenta os cursos cadastrados, porém o sistema está aceitando cursos sem está devidamente preenchido.
+Página inicial do sistema onde apresenta os cursos cadastrados, porém o sistema está aceitando cursos sem estar devidamente preenchido.
 
 <h4>Exclusão de curso</h4>
 
