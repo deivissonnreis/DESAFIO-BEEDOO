@@ -9,7 +9,7 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 • Cypress<br>
 • Gherkin<br>
 
-<h4>Bugs:</h4>
+<h4>🪲 Bugs:</h4>
 
 <h5>Tela inicial</h5>
 
@@ -22,6 +22,25 @@ Página inicial do sistema onde apresenta os cursos cadastrados, porém o sistem
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%203.png)
 
 Ainda na página inicial, o sistema está aprensentando um erro grave de exclusão de cursos, onde o usuário clica na exclusão e o curso ainda permance ativo apresentando na tela.
+
+<h5>Cadastro de cursos</h5>
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
+
+Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiver devidamente preenchido.
+
+<h5>Cadastro de cursos incompleto</h5>
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
+
+O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar preenchido de maneira correta.
+
+<h4>Planos de teste:</h4>
+
+
+
+
+
 
 
 
