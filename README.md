@@ -70,9 +70,10 @@ Código feito com javascript e o framework Cypress.
 
  <h3>🪲 Exemplos de bugs não registrado: </h3>
  - Preencher fomulário de cadastro sem nome do curso <br>
- - Preencher fomulário de cadastro sem descriçaõ do curso <br>
+ - Preencher fomulário de cadastro sem descrição do curso <br>
  - Preencher fomulário de cadastro sem instrutor do curso <br>
  - Preencher fomulário de cadastro sem data de ínicio/fim do curso <br>
+ - Preencher fomulário de cadastro com data de fim menor que a data de inicio do curso <br>
  - Preencher fomulário de cadastro sem endereço do curso <br>
 
   Obs: esses foram somente alguns exemplos encontrados.
