@@ -37,6 +37,15 @@ O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar
 
 <h4>Planos de teste:</h4>
 
+Caso de teste: Tela inicial
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%202.png)
+
+Caso de teste: Cadastrar cursos
+
+![login page]([https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%201.png))
+
+
 
 
 
