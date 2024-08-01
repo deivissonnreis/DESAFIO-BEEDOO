@@ -11,25 +11,25 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 
 <h3>🪲 Bugs:</h3>
 
-<h4>Tela inicial</h4>
+<h4>Tela inicial:</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%202.png)
 
 Página inicial do sistema onde apresenta os cursos cadastrados, porém o sistema está aceitando cursos sem estar devidamente preenchido.
 
-<h4>Exclusão de curso</h4>
+<h4>Exclusão de curso:</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%203.png)
 
 Ainda na página inicial, o sistema está aprensentando um erro grave de exclusão de cursos, onde o usuário clica na exclusão e o curso ainda permance ativo apresentando na tela.
 
-<h4>Cadastro de cursos</h4>
+<h4>Cadastro de cursos:</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
 
 Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiver devidamente preenchido.
 
-<h4>Cadastro de cursos incompleto</h4>
+<h4>Cadastro de cursos incompleto:</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
 
