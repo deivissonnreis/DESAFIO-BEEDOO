@@ -65,7 +65,7 @@ Código feito com javascript e o framework Cypress.
  <h3>💬 Considerações:</h3>
  Experiência enriquecedora de conhecimento trabalhar nesse desafio proposto pela Beedoo.<br>
  Meus agradecimentos,<br>
-
+ <br>
  Deivisson Reis.
 
  <h3>🪲 Exemplos de bugs não registrado: </h3>
