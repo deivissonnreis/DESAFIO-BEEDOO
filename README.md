@@ -58,7 +58,7 @@ Código feito com javascript e o framework Cypress.
 
 <h2>🔗Links:</h2>
  <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de testes</a><br>
- <a href='https://drive.google.com/drive/folders/1ofXXDbML0Iu_QD--RLxwsvBsg4qX3ZjJ?usp=drive_link'>Evidências</a>
+ <a href='https://drive.google.com/drive/folders/1ofXXDbML0Iu_QD--RLxwsvBsg4qX3ZjJ?usp=drive_link'>Evidências</a><br>
 
  OBS: todos os casos de teste e evidências também podem ser encontrados na pasta do repositório.
 
