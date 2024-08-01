@@ -10,6 +10,8 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 • Gherkin<br>
 
 <h2>🪲 Bugs:</h2>
+<h3>Obs: as evidências estão atreladas pelo ID de cada caso de teste. por exemplo: Suíte - Cadastrar cursos - ID 1-1 está atrelada ao ID 1 do caso de teste "cadastrar cursos". isso devido a praticidade e facilidade para verificar o relatório. </h3>
+
 
 <h4>Tela inicial:</h4>
 
