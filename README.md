@@ -9,33 +9,33 @@ Não foram efetuados todos os registros de bugs devidos a grandes quantidades de
 • Cypress<br>
 • Gherkin<br>
 
-<h4>🪲 Bugs:</h4>
+<h3>🪲 Bugs:</h3>
 
-<h5>Tela inicial</h5>
+<h4>Tela inicial</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%202.png)
 
 Página inicial do sistema onde apresenta os cursos cadastrados, porém o sistema está aceitando cursos sem está devidamente preenchido.
 
-<h5>Exclusão de curso</h5>
+<h4>Exclusão de curso</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Tela%20inicial/Suíte%20-%20Tela%20inicial%20-%20ID%203.png)
 
 Ainda na página inicial, o sistema está aprensentando um erro grave de exclusão de cursos, onde o usuário clica na exclusão e o curso ainda permance ativo apresentando na tela.
 
-<h5>Cadastro de cursos</h5>
+<h4>Cadastro de cursos</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
 
 Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiver devidamente preenchido.
 
-<h5>Cadastro de cursos incompleto</h5>
+<h4>Cadastro de cursos incompleto</h4>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Suíte%20-%20Cadastrar%20cursos/Suíte%20-%20Cadastrar%20cursos%20-%20ID%201-1.png)
 
 O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar preenchido de maneira correta.
 
-<h4>📜 Planos de teste:</h4>
+<h3>📜 Planos de teste:</h3>
 
 Caso de teste: Tela inicial
 
@@ -45,7 +45,9 @@ Caso de teste: Cadastrar cursos
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%201.png)
 
-OBS: Para ver os casos te teste completo, clique <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>aqui</a>
+
+<h3>🔗Links:</h3>
+ <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de teste</a>
 
 
 
