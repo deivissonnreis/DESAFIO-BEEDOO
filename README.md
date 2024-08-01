@@ -35,7 +35,7 @@ Na página de cadastro de cursos, o sistema deverá aceitar somente quando estiv
 
 O sistema, como dito anteriormente, está aceitando cadastro de cursos sem estar preenchido de maneira correta.
 
-<h3>📜 Planos de teste:</h3>
+<h3>📜 Planos de testes:</h3>
 
 Caso de teste: Tela inicial
 
@@ -44,6 +44,11 @@ Caso de teste: Tela inicial
 Caso de teste: Cadastrar cursos
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Evidências/Caso%20de%20teste%201.png)
+
+<h3>🤖 Automatização:</h3>
+
+![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Cypress%20-%20Bônus/Beedoo%20Cypress/Cypress-1.png)
+Código feito com javascript com framework Cypress.
 
 
 <h3>🔗Links:</h3>
