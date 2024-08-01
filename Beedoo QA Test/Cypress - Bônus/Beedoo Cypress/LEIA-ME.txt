@@ -1,0 +1,11 @@
+Para executar os teste em cypress, bastar abrir um terminal na pasta:
+- Botão direito do mouse
+- Abrir um terminal
+- escreva o comando: npm cypress install --save-dev, após a conclusão
+- escreva o comando: "npx cypress run" e os testes irão rodar.
+
+Para executar de modo mais visual, basta executar o comando: "npx cypress open" e executá-lo.
+
+Atenciosamente,
+
+Deivisson Reis
