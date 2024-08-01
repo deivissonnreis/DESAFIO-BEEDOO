@@ -75,7 +75,7 @@ Código feito com javascript e o framework Cypress.
  - Preencher fomulário de cadastro sem data de ínicio/fim do curso <br>
  - Preencher fomulário de cadastro com data de fim menor que a data de inicio do curso <br>
  - Preencher fomulário de cadastro sem endereço do curso <br>
-
+ <br>
   Obs: esses foram somente alguns exemplos encontrados.
  
  
