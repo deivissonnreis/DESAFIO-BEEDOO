@@ -48,12 +48,37 @@ Caso de teste: Cadastrar cursos
 <h3>🤖 Automatização:</h3>
 
 ![login page](https://github.com/deivissonnreis/QA-Test/blob/main/Beedoo%20QA%20Test/Cypress%20-%20Bônus/Beedoo%20Cypress/Cypress-1.png)
-Código feito com javascript com framework Cypress.
+Código feito com javascript e o framework Cypress.
 
 
 <h3>🔗Links:</h3>
  <a href='https://docs.google.com/spreadsheets/d/170ENdST1mG_d_OJxBGORIJS6Eeadm8hD/edit?gid=140281297#gid=140281297'>Casos de testes</a><br>
  <a href='https://drive.google.com/drive/folders/1ofXXDbML0Iu_QD--RLxwsvBsg4qX3ZjJ?usp=drive_link'>Evidências</a>
+
+ OBS: todos os casos de teste e evidências também podem ser encontrados na pasta do repositório.
+
+ <h3>💬 Considerações</h3>
+ Experiência enriquecedora de conhecimento trabalhar nesse desafio proposto pela Beedoo.
+ Meus agradecimentos,
+
+ Deivisson Reis.
+
+ <h3>🪲 Exemplos de bugs não registrado: </h3>
+ - Preencher fomulário de cadastro sem nome do curso <br>
+ - Preencher fomulário de cadastro sem descriçaõ do curso <br>
+ - Preencher fomulário de cadastro sem instrutor do curso <br>
+ - Preencher fomulário de cadastro sem data de ínicio/fim do curso <br>
+ - Preencher fomulário de cadastro sem endereço do curso <br>
+
+  Obs: esses foram somente alguns exemplos encontrados.
+ 
+ 
+ 
+
+ 
+ 
+
+ 
 
 
 
